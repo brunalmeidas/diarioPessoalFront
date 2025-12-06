@@ -1,6 +1,6 @@
-# 📔 Diário Pessoal
+# Diário Pessoal
 
-Uma aplicação web simples para guardar seus pensamentos, memórias e reflexões do dia a dia.
+Registre seus momentos e reflexões diárias. Seu espaço pessoal para expressar seus sentimentos.
 
 ## 🎯 Sobre o Projeto
 
@@ -14,12 +14,14 @@ Este é um projeto de diário pessoal desenvolvido com React e Vite. Permite cri
 - ✅ Visualizar todas as entradas em formato de cards
 - ✅ Dados salvos automaticamente no navegador (localStorage)
 - ✅ Interface responsiva e amigável
+- ✅ Design moderno com efeito glassmorphism
+- ✅ Background temático com código binário
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **React** - Biblioteca JavaScript para construção de interfaces
 - **Vite** - Ferramenta de build rápida para desenvolvimento
-- **CSS** - Estilização da aplicação
+- **CSS** - Estilização da aplicação com efeitos modernos
 - **localStorage** - Armazenamento local dos dados
 
 ## 📦 Como Instalar
@@ -98,5 +100,5 @@ Este projeto foi desenvolvido para praticar:
 
 ---
 
-Feito com ❤️ para guardar memórias especiais
+Seu espaço pessoal para expressar seus sentimentos
 
